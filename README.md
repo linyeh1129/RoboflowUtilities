@@ -1,3 +1,14 @@
 # RoboflowUtilities
-Some convenient tools
-- label_generator.py -> generate a enum class by dataset.yaml
+```
+└── RoboflowUtilities
+    ├── label
+    │   └── label_generator.py
+    ├── ocr
+    │   └── ocr.py
+    └── yolo
+        ├── files
+        │   └── yolov8n.pt
+        └── scripts
+            ├── predict.py
+            └── train.py
+```
